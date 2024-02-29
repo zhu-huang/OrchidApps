@@ -6,7 +6,7 @@ Zhu Huang apps for OrchidOS
 
 Go into your OrchidOS Files and go to
 
-``/profile/webapps.json
+```/profile/webapps.json```
 
 Insert a new line and copy paste the stuff in the **webapp-initate.json** file to the **webapps.json** file.
 
