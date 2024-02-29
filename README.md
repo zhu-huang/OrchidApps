@@ -1,6 +1,6 @@
 # OrchidApps for OrchidOS
 
-Zhu Huang apps for OrchidOS
+Zhu Huang apps for [OrchidOS](https://github.com/orchidglobal)
 
 # Installing
 
